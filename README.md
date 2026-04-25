@@ -19,7 +19,7 @@ With a background in **Health Information Management**, I bring a disciplined, s
 ---
 
 ## 📂 Featured Projects
-This repository hosts my landing page at [ayodelelatifah.github.io](https://github.io). Key projects showcased include:
+This repository hosts my landing page at [ayodelelatifah/github.io](https://github.io). Key projects showcased include:
 
 1.  **Infrastructure as Code:** Automated AWS provisioning with Terraform.
 2.  **Configuration Management:** Multi-server setup using Ansible.
